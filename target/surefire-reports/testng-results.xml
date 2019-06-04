@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="65" started-at="2019-05-27T10:39:49Z" finished-at="2019-05-27T10:39:50Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="65" started-at="2019-05-27T10:39:49Z" finished-at="2019-05-27T10:39:50Z">
+      <class name="qaclickacademy.Day4Test">
+        <test-method status="PASS" signature="LoginAPIHomeLoan()[pri:0, instance:qaclickacademy.Day4Test@20e2cbe0]" name="LoginAPIHomeLoan" duration-ms="1" started-at="2019-05-27T12:39:50Z" finished-at="2019-05-27T12:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPIHomeLoan -->
+        <test-method status="PASS" signature="MobileLoginHomeLoan()[pri:0, instance:qaclickacademy.Day4Test@20e2cbe0]" name="MobileLoginHomeLoan" duration-ms="0" started-at="2019-05-27T12:39:50Z" finished-at="2019-05-27T12:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginHomeLoan -->
+        <test-method status="PASS" signature="WebLoginHomeLoan()[pri:0, instance:qaclickacademy.Day4Test@20e2cbe0]" name="WebLoginHomeLoan" duration-ms="1" started-at="2019-05-27T12:39:50Z" finished-at="2019-05-27T12:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLoginHomeLoan -->
+      </class> <!-- qaclickacademy.Day4Test -->
+      <class name="qaclickacademy.Day3Test">
+        <test-method status="PASS" signature="APICarLoan()[pri:0, instance:qaclickacademy.Day3Test@2a2d45ba]" name="APICarLoan" duration-ms="2" started-at="2019-05-27T12:39:50Z" finished-at="2019-05-27T12:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APICarLoan -->
+        <test-method status="PASS" signature="MobileLoginCarLoan()[pri:0, instance:qaclickacademy.Day3Test@2a2d45ba]" name="MobileLoginCarLoan" duration-ms="1" started-at="2019-05-27T12:39:50Z" finished-at="2019-05-27T12:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginCarLoan -->
+        <test-method status="PASS" signature="MobileSigninCarLoan()[pri:0, instance:qaclickacademy.Day3Test@2a2d45ba]" name="MobileSigninCarLoan" duration-ms="3" started-at="2019-05-27T12:39:50Z" finished-at="2019-05-27T12:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSigninCarLoan -->
+        <test-method status="PASS" signature="MobileSignoutCarLoan()[pri:0, instance:qaclickacademy.Day3Test@2a2d45ba]" name="MobileSignoutCarLoan" duration-ms="1" started-at="2019-05-27T12:39:50Z" finished-at="2019-05-27T12:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSignoutCarLoan -->
+        <test-method status="PASS" signature="WebLoginCarLoan()[pri:0, instance:qaclickacademy.Day3Test@2a2d45ba]" name="WebLoginCarLoan" duration-ms="0" started-at="2019-05-27T12:39:50Z" finished-at="2019-05-27T12:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLoginCarLoan -->
+      </class> <!-- qaclickacademy.Day3Test -->
+      <class name="qaclickacademy.Day2Test">
+        <test-method status="PASS" signature="Ploan()[pri:0, instance:qaclickacademy.Day2Test@2a5ca609]" name="Ploan" duration-ms="1" started-at="2019-05-27T12:39:50Z" finished-at="2019-05-27T12:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ploan -->
+        <test-method status="PASS" signature="SecondTest()[pri:0, instance:qaclickacademy.Day2Test@2a5ca609]" name="SecondTest" duration-ms="2" started-at="2019-05-27T12:39:50Z" finished-at="2019-05-27T12:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTest -->
+      </class> <!-- qaclickacademy.Day2Test -->
+      <class name="qaclickacademy.Day1Test">
+        <test-method status="PASS" signature="Demo()[pri:0, instance:qaclickacademy.Day1Test@643b1d11]" name="Demo" duration-ms="13" started-at="2019-05-27T12:39:50Z" finished-at="2019-05-27T12:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method status="PASS" signature="SecondTest()[pri:0, instance:qaclickacademy.Day1Test@643b1d11]" name="SecondTest" duration-ms="1" started-at="2019-05-27T12:39:50Z" finished-at="2019-05-27T12:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTest -->
+      </class> <!-- qaclickacademy.Day1Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
